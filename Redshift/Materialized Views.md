@@ -1,12 +1,3 @@
----
-title: Materialized Views
-updated: 2024-11-15 03:56:17Z
-created: 2024-11-15 03:27:09Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 Materialized views in Amazon Redshift provide a way to handle complex queries on large datasets. A materialized view contains a precomputed result set, based on an SQL query over one or more base tables. 
 
 This means that the results of the query are calculated and stored when the view is created, rather than being calculated at query time. This can significantly speed up query performance on large datasets.

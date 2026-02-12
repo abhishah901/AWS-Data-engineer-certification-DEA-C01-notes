@@ -1,0 +1,2 @@
+
+`Enhanced Fan-Out` is a feature in Kinesis Data Streams that provides each consumer with its own 2 MB per second of dedicated bandwidth per shard, which can help handle increased data volume. Additionally, the HTTP/2 data retrieval API can reduce latency, making data delivery from producers to consumers faster.

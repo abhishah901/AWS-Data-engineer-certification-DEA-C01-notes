@@ -1,12 +1,3 @@
----
-title: Appflow triggers
-updated: 2024-12-04 23:52:19Z
-created: 2024-12-04 23:52:02Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 A trigger determines how a flow runs. The following are the supported flow trigger types:
 
 `Run on demand` — Users manually run the flow as needed.

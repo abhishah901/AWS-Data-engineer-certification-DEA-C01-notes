@@ -1,0 +1,1 @@
+Systems manager is used specifically to manage all your EC2 instances, not to monitor primarily

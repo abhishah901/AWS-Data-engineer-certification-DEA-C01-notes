@@ -1,12 +1,3 @@
----
-title: S3 Access Points
-updated: 2024-11-13 00:34:11Z
-created: 2024-11-13 00:32:55Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 Amazon S3 Access Points are a feature of Amazon S3 that simplifies managing data access for shared datasets. 
 
 With Access Points, you can create multiple access points for a single S3 bucket, with each access point having a unique hostname and access policy tailored for a specific use case or application.

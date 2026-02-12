@@ -1,12 +1,3 @@
----
-title: Data migration tasks (with CDC)
-updated: 2024-11-09 05:33:14Z
-created: 2024-11-09 05:28:46Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 An AWS DMS task can be created to capture ongoing changes from the source data store during the data migration process.
 
 The source or target of the migration must be on AWS.

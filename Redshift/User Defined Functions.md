@@ -1,12 +1,3 @@
----
-title: User Defined Functions
-updated: 2024-11-09 03:44:37Z
-created: 2024-11-09 03:28:27Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 Create custom scalar UDFs using either a SQL SELECT clause or a Python program. 
 
 Once created, the UDF is stored in the database and is available for any user with sufficient privileges to run.

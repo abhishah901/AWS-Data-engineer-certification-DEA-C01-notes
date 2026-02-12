@@ -1,12 +1,3 @@
----
-title: CloudTrail Lake
-updated: 2024-12-06 03:50:17Z
-created: 2024-12-06 03:39:53Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 AWS CloudTrail Lake simplifies activity log analysis by integrating collection, storage, optimization, and query in the same product. 
 
 By consolidating these features into one environment, CloudTrail Lake eliminates the need for separate data processing pipelines that span across teams and products.

@@ -1,0 +1,27 @@
+- Availability Zones✅
+	- failover of a region vs AZ✅
+- Opensearch service✅
+- NAT gateway✅
+	- egress-only internet gateway✅
+- amazon kinesis adapter✅
+- amazon fsx✅
+	- lustre✅
+	- ONTAP✅
+- pre-signed URLs for lambda✅
+- Route 53✅
+- runOrder in codepipeline✅
+- Lambda@Edge vs Cloudfront✅
+- globalsecondaryindex vs localsecondaryindex✅
+- Cloudformation samples for exam
+- AppSpec Lifecycle again
+- Deployment strategies again
+- Obscure fucking Trusted fucking advisor with features overlapping every other fucking service in fucking existence✅
+- Network Load Balancer✅
+- AWS Storage gateway✅
+	- file gateway mode✅
+	- RefreshCache and other commands✅
+- AWS Config aggregators✅
+- AWS Config compliance vs AWS Systems Manager Compliance✅
+- Systems Manager Automation Document✅
+- GlusterFS✅
+-  UDP vs TCP

@@ -1,12 +1,3 @@
----
-title: Glue DataBrew
-updated: 2024-12-09 02:21:41Z
-created: 2024-12-06 04:10:14Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 - DataBrew >> Visual data preparation tool that simplifies the process of cleaning and normalizing data
 
 

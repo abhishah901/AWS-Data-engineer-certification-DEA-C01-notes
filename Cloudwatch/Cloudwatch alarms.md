@@ -1,0 +1,4 @@
+- Monitor certain events and notify like
+	- CPU utilization
+	- Memory utilization
+	- Other custom metrics

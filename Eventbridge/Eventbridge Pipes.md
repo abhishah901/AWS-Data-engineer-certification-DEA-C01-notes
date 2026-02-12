@@ -1,12 +1,3 @@
----
-title: Eventbridge Pipes
-updated: 2024-12-12 22:55:24Z
-created: 2024-12-12 22:54:57Z
-latitude: 40.76843420
-longitude: -74.14542140
-altitude: 0.0000
----
-
 Amazon EventBridge Pipes connects sources to targets. 
 
 Pipes are intended for point-to-point integrations between supported sources and targets, with support for advanced transformations and enrichment. 

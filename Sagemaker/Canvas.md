@@ -1,12 +1,3 @@
----
-title: Canvas
-updated: 2024-12-06 22:59:14Z
-created: 2024-12-06 22:58:18Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 SageMaker Canvas is a feature of Amazon SageMaker that represents a no-code approach to machine learning. It makes machine learning accessible to users of all technical backgrounds. With a user-friendly interface, it automates data preparation, model selection, training, and deployment. This allows users to create predictive models without needing to write any code. Canvas simplifies the entire process of applying machine learning, from data cleaning to making predictions.
 
 In building a model, SageMaker Canvas offers different types of models, which are the following:

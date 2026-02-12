@@ -1,12 +1,3 @@
----
-title: Redshift Data API
-updated: 2024-11-17 22:54:29Z
-created: 2024-11-17 22:52:36Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 Amazon Redshift Data API is an Amazon Redshift feature that simplifies access to your Amazon Redshift data warehouse by removing the need to manage database drivers, connections, network configurations, data buffering, credentials, and more. 
 
 You can run SQL statements using the AWS Software Development Kit (AWS SDK), which supports different languages such as C++, Go, Java, JavaScript, .Net, Node.js, PHP, Python, and Ruby.

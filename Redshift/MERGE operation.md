@@ -1,12 +1,3 @@
----
-title: MERGE operation
-updated: 2024-11-12 23:52:00Z
-created: 2024-11-12 23:50:42Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 One of the features of Amazon Redshift is the support for the MERGE operation, which uses a temporary staging table. 
 
 This operation is particularly useful when you have a large batch of updated data that often contains updates to existing records, and you want to ensure that the data in Redshift is always up-to-date while minimizing the impact on query performance.

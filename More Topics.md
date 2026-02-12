@@ -1,0 +1,8 @@
+- Codecommit✅
+- AWS Backup✅
+- RefreshCache✅
+- AWS KMS✅
+- IAM role vs policy vs service ✅
+- OpenTelemetry OS
+- Lots more Kubernetes, EKS and ECS
+- Lot more very complicated IAM

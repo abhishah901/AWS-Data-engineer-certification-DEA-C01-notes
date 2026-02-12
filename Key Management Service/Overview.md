@@ -1,12 +1,3 @@
----
-title: Overview
-updated: 2024-11-13 05:15:01Z
-created: 2024-11-13 05:14:53Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 AWS KMS allows you to enable automatic key rotation for your customer-managed keys, which automatically generates new cryptographic material for your key every year. 
 
 To rotate a key manually, you would create new cryptographic material and associate it with the key yourself. 

@@ -1,12 +1,3 @@
----
-title: DB auditing
-updated: 2024-11-09 05:42:43Z
-created: 2024-11-09 05:37:11Z
-latitude: 32.73568700
-longitude: -97.10806560
-altitude: 0.0000
----
-
 Amazon Redshift keeps a record of all connections and user activities in your database, which is commonly known as database auditing. 
 
 These logs are essential for security and troubleshooting purposes. They are stored in Amazon S3 buckets, which provide easy access and data security features for those who monitor database activities.

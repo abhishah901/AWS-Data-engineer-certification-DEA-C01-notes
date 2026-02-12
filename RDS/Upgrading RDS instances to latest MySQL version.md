@@ -1,0 +1,4 @@
+- Create a second read replica stack. Redirect hits temporarily to the read replica version of RDS
+- Update the original
+- Switch back to original version as the primary source of truth
+- Discontinue the read replica 
